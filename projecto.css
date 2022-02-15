@@ -1,0 +1,12 @@
+#body{background-color: black;}
+#img{width: 16%;height: 150px;}
+#a{background-color: grey;width: 50%;float:left;}
+#c{background-color: grey;width: 50%;float:left;}
+
+@media screen and (min-width:500px) {
+    #a{background-color:grey; }
+}
+
+@media screen and (min-width:500px) {
+    #c{background-color:grey; }
+}

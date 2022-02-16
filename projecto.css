@@ -10,3 +10,14 @@
 @media screen and (min-width:500px) {
     #c{background-color:grey; }
 }
+.contenedor{
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    position: unset;
+}
+.imagen{
+    text-align: center;
+    position: unset;
+}
+

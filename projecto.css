@@ -7,3 +7,8 @@
     background-size: 200px 200px;
     margin: auto;}
 #collapsibleNavbar{margin:auto !important;}
+
+.card-group{
+    text-align: center;
+    background: url(../projecto-master/imagenes/Whatssap.png);
+}

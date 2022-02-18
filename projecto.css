@@ -8,7 +8,31 @@
     margin: auto;}
 #collapsibleNavbar{margin:auto !important;}
 
-.card-group{
+.card{
+    margin: auto;
+    align-content: center;
     text-align: center;
-    background: url(../projecto-master/imagenes/Whatssap.png);
+    position: unset;
+    width: 200px;
+    background-color: transparent;
+    
+}
+.como{
+    position: unset;
+    text-align: center;
+    border-color: white;
+
+    
+}
+.card-deck{
+    padding: 0%;
+    position: unset;
+    align-items: center;
+}
+footer{
+    position:relative;
+    margin-top: auto;
+    align-items:unset;
+    align-content:center;
+
 }

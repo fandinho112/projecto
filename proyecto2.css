@@ -37,7 +37,7 @@ footer{
 
 }
 .ropa{
-    margin-left: 300px;text-align: center;
+    margin-left: 300px !important;
 }
 .margen{ float: left;
 }

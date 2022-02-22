@@ -9,16 +9,16 @@
 #collapsibleNavbar{margin:auto !important;}
 
 .card{
-    margin: auto;
-    align-content: center;
+    align-content: left;
     text-align: center;
     position: unset;
-    width: 200px;
-    background-color: transparent;
+    width: 600px;
+    background-color: rgb(54, 54, 54);
+    float: left;
     
 }
 .como{
-    position: unset;
+    position: unset;                                                      
     text-align: center;
     border-color: white;
 
@@ -34,15 +34,16 @@ footer{
     margin-top: auto;
     align-items:unset;
     align-content:center;
-    
 
 }
-
-.thumbnail{margin-top: 30px;}
-
-#arreglos{color: white;
-text-align: center;}
-#r{color: white;
-text-align: center;}
-
-
+.ropa{
+    margin-left: 300px;text-align: center;
+}
+.margen{ float: left;
+}
+.sinmargen{
+        float: left;
+}
+div{
+    /*border: 1px solid white*/
+}
